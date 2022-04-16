@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/BrainTrainer/app/src/main/res/drawable/taile.xml" value="0.2475" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/BrainTrainer/app/src/main/res/drawable/yelow.xml" value="0.2475" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/BrainTrainer/app/src/main/res/layout/activity_main.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/ACER/Downloads/Brain_Trainer/BrainTrainer/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
